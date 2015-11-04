@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="loading">
+        <item>Reticulating Splines</item>
+        <item>Adding Hidden Agendas</item>
+        <item>Stratifying Ground Layers </item>
+        <item>Sequencing Particles</item>
+        <item>Synthesizing Gravity </item>
+        <item>Inserting Sublimated Messages</item>
+    </string-array>
+</resources>
